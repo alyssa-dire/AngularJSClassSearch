@@ -1,4 +1,4 @@
-# SimpleAngularJSApp
+# AngularJSClassesSearch
 
 
 ![screenshot 9](https://user-images.githubusercontent.com/26575291/31620146-811014f0-b264-11e7-911a-cb24a6b5a7ac.png)
